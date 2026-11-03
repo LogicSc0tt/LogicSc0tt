@@ -1,21 +1,19 @@
 # Hey there, I'm Logic
 
-I’m a **Full-Stack Software Engineer** 
-
-I usually work on **TypeScript, VScode, figma and modern web applications**. I love building things that are simple, useful, and easy to understand.
+I’m an aspiring **Web Developer & Designer** focusing on creating clean, simple, and useful web applications.
 
 ---
 
 ### 🛠️ Tools & Tech
-* **Languages:** HTML, JavaScript, CSS, Verilog
-* **Design & Tools:** Git, CorelDraw, photoshop, VS Code. Figma
+* **Languages & Core:** HTML5, CSS3, JavaScript
+* **Design & Tools:** Figma, CorelDraw, Photoshop, Git, VS Code
 
 ---
 
-### ☕ A Bit About Me
-* 🎮 Huge fan of sci-fi gaming and building side projects on weekends.
-* 🧠 Always exploring embedded systems, hardware logic, and modern web tech.
-* 🚀 I like building things that solve real-world problems.
+### 💡 A Bit About Me
+* Passionate about clean web design and bringing user interfaces to life.
+* Exploring how websites work from front to back while sharpening my core frontend skills.
+* I love building things that solve real-world problems.
 
 ---
 
