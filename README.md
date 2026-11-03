@@ -1,21 +1,19 @@
-# Hi there 👋, I'm Scott
+# Hey there, I'm Logic
 
-I’m a **Full-Stack Software Engineer** based in **Nigeria**. 
+I’m a **Full-Stack Software Engineer** 
 
-I usually work on **TypeScript, React, and modern web applications**. I love building things that are simple, useful, and easy to understand.
+I usually work on **TypeScript, VScode, figma and modern web applications**. I love building things that are simple, useful, and easy to understand.
 
 ---
 
 ### 🛠️ Tools & Tech
-* **Languages:** TypeScript, JavaScript, Python, Verilog
-* **Frontend & Backend:** React, Next.js, Node.js, Express
-* **Design & Tools:** Git, GitHub, Docker, VS Code
+* **Languages:** HTML, JavaScript, CSS, Verilog
+* **Design & Tools:** Git, CorelDraw, photoshop, VS Code. Figma
 
 ---
 
 ### ☕ A Bit About Me
 * 🎮 Huge fan of sci-fi gaming and building side projects on weekends.
-* ⚡ Powered entirely by iced Chapman or malt instead of coffee.
 * 🧠 Always exploring embedded systems, hardware logic, and modern web tech.
 * 🚀 I like building things that solve real-world problems.
 
