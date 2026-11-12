@@ -1,1 +1,1 @@
-Designer bridging the gap with HTML, CSS, React, JS, and Web3
+Designing pixels, building with HTML/CSS/React/JS, and exploring Web3
